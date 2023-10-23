@@ -6,7 +6,7 @@ main ()
   int a, b;
   char dv, chuc, tram;
   clrscr ();
-  printf ("Nhap so bi nhan co 3 chu so a=");
+  printf ("Nhap so bi nhan co 3 chu so aaa=");
   scanf ("%d", &a);
   printf ("Nhap so nhan co 3 chu so b=");
   scanf ("%d", &b);
